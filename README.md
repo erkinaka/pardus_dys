@@ -1,6 +1,6 @@
 # Pardus DYS
 
-Bu kod Milli Eğitim Bakanlığı Merkez ve Taşra Teşkilatları ile okullarında kullanılan Döküman Yönetim Sistemi (DYS) için geliştirilmiştir.
+Bu kod Milli Eğitim Bakanlığı Merkez ve Taşra Teşkilatları ile okullarında kullanılan Döküman Yönetim Sistemi'nin (DYS) Pardus işletim sisteminde sorunsuz bir şekilde çalışması için geliştirilmiştir.
 
 Kurulum talimatları için https://www.etebesir.com/yazi/pardus-dys-kolay-kurulumu-150-1.html adresine göz atın.
 
