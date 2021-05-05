@@ -65,7 +65,7 @@ cat /etc/hosts.tmp >> /etc/hosts
 echo "4. Uyap Editör kuruluyor."
 dpkg -i "/home/$kulad/Downloads/Uyap Editor (Ubuntu)/uyap-editor.deb"
 echo
-echo "**** İşlemler bitmiştir. DYS yi sorunsuzce kullanabilirsiniz. Erkin AKA ****"
+echo "**** İşlemler bitmiştir. DYS yi sorunsuzca kullanabilirsiniz. Erkin AKA ****"
 EOF
 
 
